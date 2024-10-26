@@ -1,0 +1,56 @@
+Name: Hero 
+        Health: 12 
+        Stamina: 1
+        Weapon: 6
+        Strength: 2 
+        Speed: 2 
+        Constitution: 2
+Name: Hero 
+        Health: 17 
+        Stamina: 1
+        Weapon: 6
+        Strength: 2 
+        Speed: 3 
+        Constitution: 2
+Name: Hero 
+        Health: 26 
+        Stamina: 2
+        Weapon: 6
+        Strength: 3 
+        Speed: 3 
+        Constitution: 2
+Name: Hero 
+        Health: 37 
+        Stamina: 2
+        Weapon: 6
+        Strength: 3 
+        Speed: 4 
+        Constitution: 2
+Name: Hero 
+        Health: 48 
+        Stamina: 3
+        Weapon: 6
+        Strength: 4 
+        Speed: 4 
+        Constitution: 3
+Name: Hero 
+        Health: 57 
+        Stamina: 4
+        Weapon: 6
+        Strength: 4 
+        Speed: 5 
+        Constitution: 3
+Name: Hero 
+        Health: 137 
+        Stamina: 7
+        Weapon: 7
+        Strength: 5 
+        Speed: 9 
+        Constitution: 5
+Name: Hero 
+        Health: 461 
+        Stamina: 9
+        Weapon: 7
+        Strength: 10 
+        Speed: 10 
+        Constitution: 10

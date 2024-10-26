@@ -1,0 +1,82 @@
+{
+    "0":{
+        "name": "Blink Dog",
+        "strength":2,
+        "speed":7,
+        "constitution":2,
+        "stamina":1,
+        "health":22,
+        "weapon":6,
+        "track":0
+    },
+    "1":{
+        "name": "Gnoll",
+        "strength":4,
+        "speed":2,
+        "constitution":1,
+        "stamina":1,
+        "health":22,
+        "weapon":8,
+        "track":1
+    },
+    "2":{
+        "name": "Brass Dragon Wyrmling",
+        "strength":5,
+        "speed":0,
+        "constitution":3,
+        "stamina":1,
+        "health":16,
+        "weapon":10,
+        "track":2
+    },
+    "3":{
+        "name": "Minotaur Skeleton",
+        "strength":8,
+        "speed":1,
+        "constitution":5,
+        "stamina":2,
+        "health":67,
+        "weapon":12,
+        "track":3
+    },
+    "4":{
+        "name": "Bearded Devil",
+        "strength":6,
+        "speed":5,
+        "constitution":5,
+        "stamina":2,
+        "health":52,
+        "weapon":9,
+        "track":4
+    },
+    "5":{
+        "name": "Couatl",
+        "strength": 6,
+        "speed": 10,
+        "constitution": 7,
+        "stamina": 2,
+        "health":97,
+        "weapon":6,
+        "track":5
+    },
+    "6":{
+        "name": "Drider",
+        "strength": 6,
+        "speed": 6,
+        "constitution": 8,
+        "stamina":3,
+        "health":123,
+        "weapon":10,
+        "track":6
+    },
+    "7":{
+        "name": "Frost Giant",
+        "strength": 23,
+        "speed": -1,
+        "constitution": 11,
+        "stamina":8,
+        "health": 138,
+        "weapon": 10,
+        "track":7
+    }
+}
